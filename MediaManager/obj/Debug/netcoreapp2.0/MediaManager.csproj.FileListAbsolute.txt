@@ -1,0 +1,10 @@
+C:\Code\seldumonde\MediaManager\MediaManager\bin\Debug\netcoreapp2.0\MediaManager.deps.json
+C:\Code\seldumonde\MediaManager\MediaManager\bin\Debug\netcoreapp2.0\MediaManager.runtimeconfig.json
+C:\Code\seldumonde\MediaManager\MediaManager\bin\Debug\netcoreapp2.0\MediaManager.runtimeconfig.dev.json
+C:\Code\seldumonde\MediaManager\MediaManager\bin\Debug\netcoreapp2.0\MediaManager.dll
+C:\Code\seldumonde\MediaManager\MediaManager\bin\Debug\netcoreapp2.0\MediaManager.pdb
+C:\Code\seldumonde\MediaManager\MediaManager\obj\Debug\netcoreapp2.0\MediaManager.csproj.CoreCompileInputs.cache
+C:\Code\seldumonde\MediaManager\MediaManager\obj\Debug\netcoreapp2.0\MediaManager.AssemblyInfoInputs.cache
+C:\Code\seldumonde\MediaManager\MediaManager\obj\Debug\netcoreapp2.0\MediaManager.AssemblyInfo.cs
+C:\Code\seldumonde\MediaManager\MediaManager\obj\Debug\netcoreapp2.0\MediaManager.dll
+C:\Code\seldumonde\MediaManager\MediaManager\obj\Debug\netcoreapp2.0\MediaManager.pdb
